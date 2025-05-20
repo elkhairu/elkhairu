@@ -1,4 +1,4 @@
-)## Hi, There!👋
+## Hi, There!👋
 
 <img src="img.png" />
 
