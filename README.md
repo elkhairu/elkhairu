@@ -19,10 +19,10 @@
 ---
 
 ## 🌐 Connect with me:
-![https://github.com/elkhairu](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![https://www.facebook.com/elkhairu16](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-![https://x.com/ellkhairu16](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
-![https://www.instagram.com/elkhairu16_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elkhairu)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/elkhairu16)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ellkhairu16)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elkhairu16_/)
 
 ---
 
